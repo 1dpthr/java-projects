@@ -18,6 +18,10 @@ public class JavaApplication3 {
         else if (percentage >= 50) return "C";
         else return "F";
     }
+static int add(int a, int b)
+{
+return a+b;
+}
     /**
      * @param args the command line arguments
      */
