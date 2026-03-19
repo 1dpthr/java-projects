@@ -20,7 +20,7 @@ public class JavaApplication3 {
     }
 static int add(int a, int b)
 {
-return a-b;
+return a+b;
 }
     /**
      * @param args the command line arguments
